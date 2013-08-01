@@ -2,6 +2,8 @@
   <img alt="Dropzone.js" src="http://www.dropzonejs.com/images/logo.png" />
 </h1>
 
+A fork to test composer.json problems
+
 *Version 3.6.1*
 
 Dropzone.js is a light weight JavaScript library that turns an HTML element into a dropzone.
@@ -20,9 +22,9 @@ folder.
 ![Screenshot](http://i.imgur.com/zXyTjMp.png)
 
 
-Master  
-![Build status](https://travis-ci.org/enyo/dropzone.png?branch=master)  
-Development  
+Master
+![Build status](https://travis-ci.org/enyo/dropzone.png?branch=master)
+Development
 ![Build status](https://travis-ci.org/enyo/dropzone.png)
 
 
@@ -85,7 +87,7 @@ var myDropzone = Dropzone.forElement("div#my-dropzone");
 myDropzone.on("error", function(file, message) { alert(message); });
 ```
 
-For a list of all events, please look at the chapter 
+For a list of all events, please look at the chapter
 [»listen to events«](http://www.dropzonejs.com/#listen_to_events) in the documentation
 or at the [source](src/dropzone.coffee#L43).
 
