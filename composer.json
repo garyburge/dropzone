@@ -1,0 +1,12 @@
+{
+    "name": "garyburge/dropzone",
+    "description": "A fork of enyo/dropzone",
+    "keywords": ["yii", "module", "cms"],
+    "homepage": "https://github.com/garyburge/dropzone",
+    "type": "yii-extension",
+    "license": "MIT",
+    "version": "dev-master",
+    "require": {
+        "php": ">=5.1.0"
+    }
+}
